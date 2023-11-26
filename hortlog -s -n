@@ -1,0 +1,264 @@
+[33mcommit f05023ce3842ea042526bc525ea3fe84958640f7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 23:35:23 2023 +0400
+
+    1
+
+[33mcommit ed94aa978c4ae1f67172d6ffeda4d2332781553b[m
+Merge: c8b38c3 ffa3b74
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 23:30:06 2023 +0400
+
+    website fix3
+
+[33mcommit ffa3b7412a6ffbebb5eccdbe31f45aa63e8b5ee7[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Sat Nov 25 22:26:03 2023 +0400
+
+    fixing
+
+[33mcommit ef5219cb57f2f5fbc7dc21947a8f07d1e61bdde7[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Sat Nov 25 21:38:26 2023 +0400
+
+    Animation of the changing text
+
+[33mcommit 44c7a6187bbf2203017ba303da1d7140b65ec674[m
+Merge: f3c1bb8 22d0279
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Sat Nov 25 17:59:17 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit 22d02797940099a3655ac173145bbd833f69048a[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Sat Nov 25 17:01:38 2023 +0400
+
+    LOGO
+
+[33mcommit c8b38c3909e5a670c2b3095ec9cc5d404210b881[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:41:58 2023 +0400
+
+    color bag
+
+[33mcommit a230fe14fe21408de7c0e70190c91c4d5707ee93[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:36:06 2023 +0400
+
+    Update website_style.css
+
+[33mcommit a3c8aff2856716471e5384b7238a54d113e0b2f3[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:35:05 2023 +0400
+
+    Update website_style.css
+
+[33mcommit 674646d7c659dbeb74cd6784b8a31623f0d9bb91[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:34:08 2023 +0400
+
+    color. fix
+
+[33mcommit 43169425e3d93c529a401cd7548329b1bedec064[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:30:26 2023 +0400
+
+    Update website.html
+
+[33mcommit b85c839ae9be49c6039c88eca305637562733719[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:29:59 2023 +0400
+
+    Update website.html
+
+[33mcommit 6eca7f3e1096dfc60b65f7f43bd5f7e2001fc3d5[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 02:24:30 2023 +0400
+
+    photo fix
+
+[33mcommit fec9e473e31fdbbf12426932bdfee3af45b90693[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 00:57:44 2023 +0400
+
+    Update website.html
+
+[33mcommit f84317136faade19e5d1657190be539ca76f1a48[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Sat Nov 25 00:56:05 2023 +0400
+
+    q1
+
+[33mcommit f3c1bb8763ec85148f1f8108425443ffc9dc4405[m
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Fri Nov 24 23:24:26 2023 +0400
+
+    some random changes
+
+[33mcommit 94ce2a1a7f986d611c5f8b31f7a3f13b83ab3faa[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Fri Nov 24 00:04:26 2023 +0400
+
+    Update website_style.css
+
+[33mcommit 9d52e45c20e38dc8f785261815a5a652c3b4930e[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Thu Nov 23 23:38:56 2023 +0400
+
+    new font
+
+[33mcommit 99537359cfecf29c581a0684bdd025efde9816cb[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 23:00:23 2023 +0400
+
+    FIXING MY TEAMMATES ERRORS
+
+[33mcommit e17950d2c63c57b061c4cfd695dc48b8c6fec088[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 22:09:13 2023 +0400
+
+    connecting team members
+
+[33mcommit a541f69bbc701c3fea8314b6367f111002adf7e4[m
+Author: Murad13Mammadov <118675814+Murad13Mammadov@users.noreply.github.com>
+Date:   Thu Nov 23 18:48:09 2023 +0400
+
+    Add files via upload
+
+[33mcommit 5947795179d2ba2e2e03290db7563bc4adc010e2[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 18:30:49 2023 +0400
+
+    CARDS AND CHANGING TEXT
+
+[33mcommit fa593632836bebf372e7dfb219d8f25e97b71b0f[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 17:39:01 2023 +0400
+
+    FIXING
+
+[33mcommit 0daa9e439f7a4a111181f6a829fb8d5352a61b6c[m
+Merge: 0474adf e2e8485
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 14:04:01 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit 0474adf85451e843ec43eea9f366ce136b79eb61[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 14:03:50 2023 +0400
+
+    pop up
+
+[33mcommit e2e8485cf6bd9d46b910bb9db67cc8ef3338bbb9[m
+Merge: 8b4cd77 a52d2d8
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Thu Nov 23 13:45:03 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit 8b4cd770960c551300e1584ce0869b0cffe0e2a2[m
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Thu Nov 23 13:45:00 2023 +0400
+
+    random changes
+
+[33mcommit a52d2d8a0f5f77d3aec9abc15490424b98132298[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 13:43:10 2023 +0400
+
+    Changing structure
+
+[33mcommit 3421d8379f3be2d5353dc9ed350caf17be3fe44f[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 13:06:40 2023 +0400
+
+    changes
+
+[33mcommit 0401844ed9ad8f20e0f465646e7f74d8c112c714[m
+Merge: 496e3cc ba2bea1
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 08:37:47 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit 496e3ccdedc3354b6e261e447e08191ba30a0a58[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Thu Nov 23 08:37:23 2023 +0400
+
+    Cards
+
+[33mcommit ba2bea176f3291066245a3dad6ed692aaaa660f8[m
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Thu Nov 23 08:10:28 2023 +0400
+
+    few changes to hour of code
+
+[33mcommit 9316949655cf75a966fce03ee85a090e655bc89a[m
+Merge: cd3f21f 0ad6dd8
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Wed Nov 22 22:32:41 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit cd3f21ff15374efed51fe48128ee235ac37701c9[m
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Wed Nov 22 22:32:37 2023 +0400
+
+    upadte to website
+
+[33mcommit 0ad6dd80b8863974881ba3e8ac591ca328a7cbe5[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Wed Nov 22 18:38:43 2023 +0400
+
+    header((((
+
+[33mcommit e159d3e60be005930f512cb72f57cb01894eebe2[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Wed Nov 22 12:46:37 2023 +0400
+
+    Hor of code
+
+[33mcommit 8a65428c4bfb211771be3f0bac9e9d30c296c3cf[m
+Merge: be19e87 b5e90a5
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Wed Nov 22 12:38:56 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit be19e8774ca57eab0a7863d9c144718c9d143305[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Wed Nov 22 12:38:44 2023 +0400
+
+    HOVER
+
+[33mcommit b5e90a58ccf2668c03167ebd3e5b25af6ee9d37d[m
+Author: bismaeel18973 <bismaeel18973@ada.edu.az>
+Date:   Wed Nov 22 12:12:38 2023 +0400
+
+    changes to hour of code
+    
+    added a few images
+
+[33mcommit 06e84f9093755b7ab3a7693fbf09ead99e20e7c3[m
+Merge: 0b21e54 9e3efb0
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Wed Nov 22 09:58:01 2023 +0400
+
+    Merge branch 'main' of https://github.com/ADA-SITE-SITE1101-2023-Fall/website-team-67
+
+[33mcommit 9e3efb0655a945dfebee5e1d44bb1b47a03f11a8[m
+Author: abbasovartem812 <130699833+abbasovartem812@users.noreply.github.com>
+Date:   Wed Nov 22 08:31:59 2023 +0400
+
+    Update website.html
+
+[33mcommit 0b21e54a3c6fe786a10a0acb0b9bc4bc83cb098b[m
+Author: becipher <ramilzeynalov565@gmail.com>
+Date:   Tue Nov 21 23:20:59 2023 +0400
+
+    CHANGES
+
+[33mcommit 87738b6b2c5412abdbf4e96e3b8ef7af50c1c884[m
+Merge

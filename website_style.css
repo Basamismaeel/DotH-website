@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+  
+  *,*:before, *:after{
+    box-sizing: border-box;
+  }
+  
+  :focus, :active{outline: none;}
+  a:focus, a:active{outline: none;}
+  
+  nav, footer, header, aside{display: block;}
+  
+  html, body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  input, button, textarea{font-family: inherit;}
+  
+  button{cursor: pointer;}
+  a, a:visited{text-decoration: none;}
+  a:hover{text-decoration: none;}
+  ul li{list-style: none;}
+  img{vertical-align: top;}
+  
+  h1, h2, h3, h4, h5, h6{font-size: inherit; font-weight: 400;}
+  
+ 
+
+
+
+* {
+    font-family: 'Sometype Mono', monospace;
+    background-color: #121212    ; 
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    display: block;
+    text-align: center;
+    background: #121212; 
+    
+    color: #fff; 
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 70px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+  
+    
+}
+
+h2 {
+    color: #00FFFF; 
+    font-weight: bold;
+}
+
+p {
+    color: #fff; 
+}
+
+a {
+    color: #E8A87C; 
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFA500; 
+}
+
+strong {
+    font-weight: bold; 
+}
+
+em {
+    font-style: italic; 
+}
+
+table {
+    background: #85DCB; 
+    border-collapse: collapse;
+    width: 100%;
+    margin: 30px auto;
+    
+} 
+
+th, td {
+    border: 0px solid #fff;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+th {
+    background: #1b888f;
+    color: #fff;
+}
+
+th:first-child {
+    border-left: none;
+}
+
+th:last-child {
+    border-right: none;
+}
+
+
+
+
+
+tr:nth-child(odd) {
+    background: #9400D3; 
+}
+
+tbody:hover td {
+    color: transparent;
+    text-shadow: 0 0 3px #aaa;
+}
+
+tbody:hover tr:hover td {
+    color: #fff;
+    text-shadow: 0 1px 0 #aaa;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #121212; 
+    border-bottom: 1px solid #dbdbdb;
+    z-index: 1000; 
+}
+
+header #contain_header {
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px; 
+    justify-content: space-between;
+    align-items: center; 
+}
+
+header #contain_header a {
+    padding-left: 30px;
+}
+

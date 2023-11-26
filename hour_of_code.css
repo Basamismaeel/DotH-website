@@ -1,0 +1,169 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: 'VT323', monospace;
+}
+
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./media/background1.jpeg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.img-gal {
+    height: 350px ;
+    padding: 30px; 
+}
+
+.header-content {
+    margin-bottom: 150px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.header-content h2{
+    font-size: 32px;
+}
+
+.header-content h3{
+    font-size: 32px;
+}
+
+.header-content h1 {
+    font-size: 32px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+section{
+    width:80%;
+    margin: 80px auto;
+}
+
+.title {
+    text-align:center;
+    font-size: 50px;
+    color: rgb(141, 115, 165);
+    
+
+}
+
+
+
+
+h4 {
+    font-size: 32px;
+    color: #484872;
+    margin: 20px auto;
+
+
+
+}
+
+p {
+    color: #7c7c7c;
+    padding: 0px 40px;
+    
+}
+.row .col  {
+  display:flex;
+ flex-direction: column;
+ align-items: center; 
+
+
+}
+.engaging-video {
+    text-align: center;
+    margin-top: 50px; 
+}
+
+.engaging-video h1 {
+    font-size: 32px; 
+    color: #484872;
+    margin-bottom: 20px; 
+}
+
+.engaging-video iframe {
+    width: 70%; 
+    max-width: 900px; 
+    height: 500px; 
+}
+
+
+.image-col {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.more-pictures .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+}
+.content-col {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+}
+
+.content-col h1 {
+    font-size: 32px;
+    color: #484872;
+    padding: 0;
+    margin: 30px 0;
+    text-align: right;
+}
+
+.content-col p {
+    text-align: right;
+    margin: 1;
+}
+
+
+.image-col h4,
+.image-col p {
+    text-align: right;
+}
+
+
+
+
+
+.menu #links a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 35px;
+    margin: 20px;
+}
+
+.menu #links #home:hover {
+    color: #FFC83D;
+}
+
+.menu #links #team:hover {
+    color: #79312C;
+}
+
+.menu #links #hour:hover {
+    color: #328A9D;  
+}
+
+.menu #links #web:hover {
+    color: #8D73A5;
+}
+

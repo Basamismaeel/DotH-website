@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>       
+        <title>Team 67</title> 
+        <script defer src="script.js"></script>
+        <link rel="stylesheet" href="style.css">     
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;700&display=swap"> 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@600&family=Space+Mono&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+    </head>
+    <body >
+        
+        <header>
+            <div id="contain_header">
+                <nav>
+                    <div class="menu">
+                        <div id="links">
+                            <a href="./index.html" index = "H">Home</a>
+                            <a href="Team members.html"> team members </a>
+                            <a href="./hour_of_code.html"> hour of code </a>
+                            <a href="./website.html"> website </a>
+                        </div>  
+                    </div>
+                </nav>
+            </div>
+            <hr>
+        </header>
+        <main>
+          <div id="popup-container">
+            <div id="popup-content">
+                <p>This website is optimized for Google Chrome. Please use Google Chrome for the best experience.</p>
+                <br>
+                <button onclick="closePopup()">Ok</button>
+            </div>
+          </div>
+            <div class="ellipse"></div>
+            <div class="container">
+              <div class="main-cinten">
+                <div id="together">TOGETHER&ensp;</div>
+                  <br>
+                  <div class="title">
+                    <div>WE ARE&ensp;</div>
+                    <div class="word can">
+                      <span>D</span>
+                      <span>O</span>
+                      <span>T</span>
+                      <span>H</span>
+                    </div>
+                    <div class="word will">
+                      <span>A</span>
+                      <span>D</span>
+                      <span>A</span>
+                    </div>
+                    <div class="word thrive">
+                      <span>T</span>
+                      <span>E</span>
+                      <span>A</span>
+                      <span>M</span>
+                      <span>6</span>
+                      <span>7</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="logo">
+                  <img src="media/DotH-logos_black.png" alt="">
+                </div>
+            </div>
+              <div class="layers-container">
+                <div class="layer" id="layer1" onmouseover="changeContent(this)" onmouseout="restoreContent(this)">
+                  <p>TEAM MEMBERS</p>
+                  <div class="buttom-button">
+                    <a href="Team members.html" class="custom-button">Learn more</a>
+                  </div>
+                        
+                </div>
+                <div class="layer" id="layer2" onmouseover="changeContent(this)" onmouseout="restoreContent(this)">
+                  <p>HOUR OF CODE</p>
+                  <div class="buttom-button">
+                    <a href="hour_of_code.html" class="custom-button">Learn more</a>
+                  </div>
+                </div>
+                <div class="layer" id="layer3" onmouseover="changeContent(this)" onmouseout="restoreContent(this)">
+                  <p>WEBSITE</p>
+                  <div class="buttom-button">
+                    <a href="website.html" class="custom-button">Learn more</a>
+                  </div>
+                </div>
+              </div>
+              
+              
+        </main>
+    </body>
+</html>
